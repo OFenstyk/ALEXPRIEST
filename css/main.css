@@ -345,7 +345,7 @@ div {
     opacity: 1; } }
 
 svg {
-  height: 68vh;
+  height: 65vh;
   z-index: 1000;
   overflow: hidden;
   position: relative; }
@@ -357,22 +357,22 @@ svg {
 @media only screen and (max-width: 768px) {
   svg {
     width: 70vw;
-    height: 78vh; } }
+    height: 73vh; } }
 
 @media only screen and (max-width: 414px) {
   svg {
     width: 70vw;
-    height: 70vh; } }
+    height: 65vh; } }
 
 @media only screen and (max-width: 375px) {
   svg {
     width: 70vw;
-    height: 67vh; } }
+    height: 62vh; } }
 
 @media only screen and (max-width: 320px) {
   svg {
     width: 70vw;
-    height: 61vh; } }
+    height: 56vh; } }
 
 shader-doodle {
   position: absolute;
