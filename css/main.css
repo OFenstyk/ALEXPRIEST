@@ -345,7 +345,7 @@ div {
     opacity: 1; } }
 
 svg {
-  height: 70vh;
+  height: 75vh;
   z-index: 1000;
   overflow: hidden;
   position: relative; }
