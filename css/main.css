@@ -400,7 +400,9 @@ shader-doodle {
 
 .fadeIn {
   -webkit-animation-name: fadeIn;
-  animation-name: fadeIn; }
+  animation-name: fadeIn;
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s; }
 
 @-webkit-keyframes fadeInLeft {
   from {
