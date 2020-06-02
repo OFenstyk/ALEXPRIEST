@@ -367,7 +367,7 @@ svg {
 @media only screen and (max-width: 375px) {
   svg {
     width: 70vw;
-    height: 67vh; } }
+    height: 65vh; } }
 
 @media only screen and (max-width: 320px) {
   svg {
