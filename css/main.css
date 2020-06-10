@@ -328,7 +328,7 @@ div {
 
 svg {
   height: 65vh;
-  z-index: 1000;
+  z-index: 1;
   overflow: hidden;
   position: relative; }
 
